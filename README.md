@@ -25,7 +25,7 @@ Welcome to LegendShop, where myths become reality and legends are for sale! 🐉
 
 1. Clone the repository of legends:
    ```
-   git clone https://github.com/your-username/legendshop.git
+   git clone https://github.com/MisikirAyu/legendshop.git
    ```
 
 2. Navigate to the project directory:
