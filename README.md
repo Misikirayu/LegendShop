@@ -57,6 +57,7 @@ Welcome to LegendShop, where myths become reality and legends are for sale! 🐉
 
 ![Home Page](./app/assets/banner.png)
 ![Cart Page](./app/assets/cart_page.png)
+![Checkout_page](./app/assets/checkout_page.png)
 
 ## 🎨 Color Palette
 
