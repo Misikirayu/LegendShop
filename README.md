@@ -1,6 +1,6 @@
 # 🏰 LegendShop: Epic E-commerce for Legendary Items
 
-![LegendShop Banner](https://your-image-url-here.com/legendshop-banner.jpg)
+![LegendShop Banner](./assets/banner.png)
 
 Welcome to LegendShop, where myths become reality and legends are for sale! 🐉⚔️🛡️
 
